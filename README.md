@@ -1,3 +1,6 @@
+## WARNING: This project is not actively maintained.
+
+
 # Welcome to CuttingEdge.Conditions
 CuttingEdge.Conditions is a library that helps developers to write pre- and postcondition validations in their C# 3.0 and VB.NET 9.0 code base. Writing these validations is easy and it improves the readability and maintainability of code.
 ## Overview
